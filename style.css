@@ -1,0 +1,30 @@
+body {
+  background-color: #e5e5e5;
+}
+p {
+  font-size: 32px;
+  font-weight: bold;
+  color: #de2f30;
+  font-family: sans-serif;
+}
+.blue-bg {
+  background-color: #277f87;
+}
+.red-bg {
+  background-color: #de2f30;
+}
+.yellow-bg {
+  background-color: #f7d168;
+}
+/* desktop */
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+  /* … */
+}
+/* tablet */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  /* … */
+}
+/* mobile  */
+@media screen and (max-width: 576px) {
+  /* … */
+}
